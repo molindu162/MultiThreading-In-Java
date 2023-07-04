@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="28916b5d-b076-48f0-a015-ba40b21b5dfc" name="Changes" comment="" />
+    <list default="true" id="28916b5d-b076-48f0-a015-ba40b21b5dfc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lock/DownloadStatus2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lock/DownloadTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lock/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MemoryInconsistancy/MemoryInconsistencyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerConsumer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Confinement/DownloadStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Confinement/DownloadStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Confinement/DownloadTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Confinement/DownloadTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Confinement/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Confinement/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading-In-Java.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,9 +41,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/molinduachintha/IntelliJIDEAProjects/MultiThreading-In-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,8 +62,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688392731628</updated>
-      <workItem from="1688392733005" duration="1000" />
+      <workItem from="1688392733005" duration="7841000" />
+      <workItem from="1688460281663" duration="8705000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
